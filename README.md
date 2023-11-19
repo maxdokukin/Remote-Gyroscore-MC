@@ -1,6 +1,6 @@
 # Remote Gyroscore MC
 
-Remore gyro. Data transmitted by RF.
+Data transmitted by RF.
 
 ![IMG_2425 (1)](https://github.com/xeweva/Remote-Gyroscore-MC/assets/54597813/c04adfbc-db32-4b41-b179-54c8d5a36a03)
 
